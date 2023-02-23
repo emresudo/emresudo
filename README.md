@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">A passionate Full Stack Developer from Turkiye</h3>
+<h3 align="center">Full Stack Developer from Turkiye</h3>
 
 - 🔭 I’m currently working on **Network Management System (sample project: packetfence)**
 
